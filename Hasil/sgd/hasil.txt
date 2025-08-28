@@ -1,0 +1,3 @@
+model dengan SGD
+map 50 => 0.239
+map 95 => 0.086

@@ -1,0 +1,4 @@
+batch size = 32
+epoch 200
+ukuran image 640x640
+learning rate 0.01

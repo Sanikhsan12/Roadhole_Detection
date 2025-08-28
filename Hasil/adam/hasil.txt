@@ -1,0 +1,3 @@
+model dengan adam
+map 50 => 0.268
+map 95 => 0.095

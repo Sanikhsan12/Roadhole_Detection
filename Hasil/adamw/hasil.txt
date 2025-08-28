@@ -1,0 +1,3 @@
+model dengan adaw
+map 50 => 0.248
+map 95 => 0.089
