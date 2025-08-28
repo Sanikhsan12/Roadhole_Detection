@@ -8,7 +8,7 @@ Deteksi jalan berlubang menggunakna model YOLOv8
 
 - Train Dataset Menggunaknan YOLOv8
 - Load model yang sudah di train (model.pt/best.pt) dari YOLOv8
-- jalankan app.py dengan menggunakna streamlit [ steamlit run app.py ]
+- jalankan app.py dengan menggunakan streamlit [ steamlit run app.py ]
 
 ## Requiremnet
 
